@@ -1,0 +1,30 @@
+{
+    "minecraft": [
+        {
+            "question": "What is Minecraft?",
+            "answer": "A sandbox video game"
+        },
+        {
+            "question": "What is the main objective in Minecraft?",
+            "answer": "To survive and thrive in a blocky, procedurally-generated world"
+        },
+        {
+            "question": "What can players do in Minecraft?",
+            "answer": "Build, explore, gather resources, and craft items"
+        }
+    ],
+    "math": [
+        {
+            "question": "What is 2 + 2?",
+            "answer": "4"
+        },
+        {
+            "question": "How many sides does a square have?",
+            "answer": "4"
+        },
+        {
+            "question": "What is the value of pi (\u03c0)?",
+            "answer": "3.14159"
+        }
+    ]
+}
